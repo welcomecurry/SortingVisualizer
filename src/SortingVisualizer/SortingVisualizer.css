@@ -1,0 +1,20 @@
+.array-container {
+    display: absolute;
+    transform: scaleY(-1);
+    margin-top: -5px;
+}
+
+.array-bar {
+    width: 2px;
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.center-navbar {
+    margin-left: 20%;
+  }
+
+.button-spacing {
+    margin-left: 10px;
+  }
